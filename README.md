@@ -1,5 +1,7 @@
 # webpack-tmux-status
 
+![demo animated gif](https://raw.githubusercontent.com/brigade/webpack-tmux-status/master/demo.gif)
+
 A simple plugin to update the tmux status line as webpack builds.
 
 To use it, add this to your `webpack.config.js`:
