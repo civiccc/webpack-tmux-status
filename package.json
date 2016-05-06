@@ -1,0 +1,23 @@
+{
+  "name": "webpack-tmux-status",
+  "version": "1.0.0",
+  "description": "Status Updater for Webpack Plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brigade/webpack-tmux-status.git"
+  },
+  "keywords": [
+    "webpack",
+    "tmux"
+  ],
+  "author": "Tom Dooner, Brigade Engineering",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brigade/webpack-tmux-status/issues"
+  },
+  "homepage": "https://github.com/brigade/webpack-tmux-status#readme"
+}
